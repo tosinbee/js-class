@@ -1,0 +1,1 @@
+This is an introduction to Javascript class with the use of Git and it's essentials. 
